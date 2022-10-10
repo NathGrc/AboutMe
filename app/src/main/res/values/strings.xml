@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Natalia M. Garcia</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Wenas.
+        \n\n Naci en la Cd. de Mexico, a los 12 años me mude a Guanajuato
+\n\n(Puerto de cabras) y cuando empece la universidad me vine a rentar a Uriangato
+\nVoy cursando el 9no semestre en el ITSUR, me fue mal en la pandemia asi que aqui sigo jajaj
+\n\nMe gustan mucho los gatos, tengo gatos en el departamento y en mi casa
+\nMe gusta salir con mis amigos o convivir con mi familia cada que voy a mi rancho
+\nYa soy tia, mi sobrino nacio hace una semana :3
+\n\nEn mis tiempos libres me gusta salir con mis amigos, escuchar musica y jugar
+ \n\nEn cuestion de musica al crecer en Mexico creci con cumbias y rock nacional
+\n\n Desde que tengo memoria lo eh escuchado gracias a mi tio politico
+\n\n La musica y el estilo de vida es lo que mas extraño de alla
+\n\nMe gusta mucho el saxofon y recientemente me compre un teclado, espero aprender c: .\n\n
+    </string>
+    <string name="what_is_your_nickname">What_is_your_Nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
